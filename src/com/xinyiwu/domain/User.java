@@ -7,4 +7,5 @@ package com.xinyiwu.domain;
 public class User {
     private int age;
     private String name;
+    private double num;
 }
