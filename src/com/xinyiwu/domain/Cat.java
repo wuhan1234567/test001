@@ -6,5 +6,6 @@ package com.xinyiwu.domain;
  */
 public class Cat {
     private int num;
+    private String aa;
 
 }
